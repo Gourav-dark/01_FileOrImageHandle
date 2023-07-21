@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "Sr6VWUUzPzSeync734584blDDCa651ZXL3NyRqt1tuk=",
+  "Source": "01_FileOrImageHandle",
+  "BasePath": "_content/01_FileOrImageHandle",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "01_FileOrImageHandle\\wwwroot",
+      "Source": "01_FileOrImageHandle",
+      "ContentRoot": "D:\\CV_Projects\\01_FileOrImageHandle\\01_FileOrImageHandle\\wwwroot\\",
+      "BasePath": "_content/01_FileOrImageHandle",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\CV_Projects\\01_FileOrImageHandle\\01_FileOrImageHandle\\wwwroot\\ProfileImages\\4579c4f1-44dd-400f-7058-08db808e78fa_profile.jpg",
+      "SourceId": "01_FileOrImageHandle",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CV_Projects\\01_FileOrImageHandle\\01_FileOrImageHandle\\wwwroot\\",
+      "BasePath": "_content/01_FileOrImageHandle",
+      "RelativePath": "ProfileImages/4579c4f1-44dd-400f-7058-08db808e78fa_profile.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProfileImages\\4579c4f1-44dd-400f-7058-08db808e78fa_profile.jpg"
+    },
+    {
+      "Identity": "D:\\CV_Projects\\01_FileOrImageHandle\\01_FileOrImageHandle\\wwwroot\\ProfileImages\\4579c4f1-44dd-400f-7058-08db808e78fa_profile.png",
+      "SourceId": "01_FileOrImageHandle",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CV_Projects\\01_FileOrImageHandle\\01_FileOrImageHandle\\wwwroot\\",
+      "BasePath": "_content/01_FileOrImageHandle",
+      "RelativePath": "ProfileImages/4579c4f1-44dd-400f-7058-08db808e78fa_profile.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProfileImages\\4579c4f1-44dd-400f-7058-08db808e78fa_profile.png"
+    }
+  ]
+}
